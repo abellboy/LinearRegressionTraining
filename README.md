@@ -12,12 +12,12 @@ In my demo, I used 12 epochs so the animation loops quickly and remains visually
 
 Some pros and cons to consider:
 
-✅ Scales well to large datasets
-✅ Supports L1/L2 regularization
-✅ Enables real-time updates
+✅ Scales well to large datasets  
+✅ Supports L1/L2 regularization  
+✅ Enables real-time updates  
 
-⚠️ Requires tuning (learning rate, epochs)
-⚠️ May converge slowly or to suboptimal values
+⚠️ Requires tuning (learning rate, epochs)  
+⚠️ May converge slowly or to suboptimal values  
 
 
 
