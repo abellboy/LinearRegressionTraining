@@ -8,7 +8,7 @@ When your model needs to adapt in real-time as part of a streaming data pipeline
 It’s also ideal for large datasets where closed-form solutions (like OLS) aren’t feasible. I created a visual Python demo that shows how SGD iteratively learns the regression line. 
 
 Since SGD is an iterative method, it must be trained in epochs. Choosing the right number means balancing speed against accuracy.
-In my demo, I used 12 epochs so the animation loops quickly and remains visually appealing
+In my demo, I used 12 epochs so the animation loops quickly and remains visually appealing.  
 
 Some pros and cons to consider:
 
