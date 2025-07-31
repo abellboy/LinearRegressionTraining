@@ -25,7 +25,7 @@ Some pros and cons to consider:
 
 **The learning rate and training epoch hyperparameters can be tuned by seeting:**
 
-Learning Rate: learning_rate (Currently set to: 0.1)
+Learning Rate: learning_rate (Currently set to: 0.1)  
 Training Epoch: n_iterations (Currently set to 12)
 
 
